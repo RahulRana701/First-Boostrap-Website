@@ -1,0 +1,18 @@
+Go to bootstrap documentation and copy the starter template and paste it in your html file instead of html and abbreviation
+
+
+we can go to components page of bootstrap and copy some components for our use and put them in our html file . we can change those components as well according to our needs when we paste them in our html file.
+
+bootstrap website is made using bootstrap components 
+
+In bootstrap blue color is primary, green color is for success , red color is for danger and yellow color is for warning.
+
+Bootstrap comes with three different containers:
+1: .container which sets image inside a container (bs aasse paase jaga chod dega).
+2: .container-fluid , which sets with 100% widht (pura cover krega)
+
+Bootstrap have a grid system as well in bootstrap each row have at max 12 columns, and we can use them accordingly , like how many we want to use of those 12 columns.grid have classes for devices as well like for small devices , medium devices , large devices and much more , just copy that class and enjoy.
+
+Margin in bootstrap is given by my and mx in y and x axis respectively
+
+Basically read bootstrap, understand it's components and use them and make a bootstrap website for yourself.
